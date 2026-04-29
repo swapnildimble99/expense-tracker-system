@@ -54,5 +54,3 @@ This project is configured as a Full-Stack Monorepo for deployment convenience, 
 - `src/`: React Frontend
 - `backend/`: Node.js + Express Backend logic
 - `server.ts`: Entrypoint for Backend
-
-*Note: If running directly in the AI Studio preview environment without Docker, the application falls back to an in-memory SQLite database automatically so you can test features without a MySQL container running!*
