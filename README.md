@@ -2,6 +2,16 @@
 
 An elegant, dark-themed expense tracker built with React, Node.js, Express, and MySQL.
 
+### Login Page
+![Home](screenshots/login.png)
+
+### Dashboard
+![Dashboard](screenshots/dashbd.png)
+
+### New Transaction
+![Home](screenshots/newTxEx.png)
+
+
 ## Run Instructions (Docker)
 
 ### Step 1
