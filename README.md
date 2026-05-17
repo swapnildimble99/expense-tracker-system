@@ -105,8 +105,8 @@ expense-tracker-dashboard/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/expense-tracker-dashboard.git
-cd expense-tracker-dashboard
+git clone https://github.com/swapnildimble99/Expense-Tracker-System.git
+cd Expense-Tracker-System
 ```
 
 ## 2️⃣ Install Dependencies
